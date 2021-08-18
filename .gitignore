@@ -1,2 +1,4 @@
-gradle-spring/.gradle
-gradle-spring/build
+*/build
+*/.gradle
+*/.idea
+*.class
